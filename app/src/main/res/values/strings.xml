@@ -1,0 +1,11 @@
+﻿<resources>
+	<string name="app_name">Решение системы линейных уравнений</string>
+	<string-array name="numOfEquations">
+		<item>2</item>
+		<item>3</item>
+		<item>4</item>
+		<item>5</item>
+		<item>6</item>
+		<item>7</item>
+	</string-array>
+</resources>
